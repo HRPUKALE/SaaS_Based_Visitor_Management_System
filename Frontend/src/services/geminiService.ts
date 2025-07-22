@@ -2,7 +2,7 @@ import { ChatMessage, AppointmentState, AppointmentBooking } from '../types';
 import { apiService } from './api';
 
 export class GeminiService {
-  private static readonly API_KEY = 'AIzaSyAIhfGYSuOz0lvEtZvNUkUeOzBVi3cDsH0';
+  private static readonly API_KEY = 'enter_your_api_key';
   private static readonly API_URL = '/gemini-api/v1beta/models/gemini-2.0-flash:generateContent';
 
   static async processConversation(

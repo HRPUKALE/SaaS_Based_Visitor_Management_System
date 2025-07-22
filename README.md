@@ -273,6 +273,30 @@ project/
 * Verify console/API errors
 
 ---
+##OUTPUT:
+<img width="1810" height="923" alt="image" src="https://github.com/user-attachments/assets/66df9847-d6de-487e-ab69-c885224026f5" />
+<img width="1780" height="944" alt="image" src="https://github.com/user-attachments/assets/94f47648-4710-4021-b274-963a9ff5b668" />
+<img width="1786" height="952" alt="image" src="https://github.com/user-attachments/assets/bd767de1-0866-4165-9270-3fc0aa215011" />
+<img width="1812" height="949" alt="image" src="https://github.com/user-attachments/assets/781156c3-7d34-456f-9b4c-38de8438ce04" />
+<img width="1828" height="924" alt="image" src="https://github.com/user-attachments/assets/c58774b0-f3a8-4fe7-a627-589b31428831" />
+<img width="1839" height="890" alt="image" src="https://github.com/user-attachments/assets/89a517c5-7471-452d-a826-253617147839" />
+<img width="1712" height="881" alt="image" src="https://github.com/user-attachments/assets/16f99999-8f05-40a6-96c0-6dc28b25f8da" />
+<img width="1865" height="903" alt="image" src="https://github.com/user-attachments/assets/57c5f295-b583-4807-bd86-cda5e374e813" />
+<img width="1789" height="892" alt="image" src="https://github.com/user-attachments/assets/08bf854a-8606-460e-86c8-662812cbf55d" />
+<img width="1812" height="949" alt="image" src="https://github.com/user-attachments/assets/98020bcb-c2c7-432e-8e98-a3b6bf4b3844" />
+<img width="1773" height="949" alt="image" src="https://github.com/user-attachments/assets/f8e35848-015c-4459-b53f-21e15e2d9dc4" />
+<img width="1106" height="893" alt="image" src="https://github.com/user-attachments/assets/3f991640-326d-4ced-9209-bc23f0f848f6" />
+<img width="1762" height="959" alt="image" src="https://github.com/user-attachments/assets/c9547448-5bff-44d7-9741-4a426a41262c" />
+<img width="1790" height="951" alt="image" src="https://github.com/user-attachments/assets/b31a5d23-9131-4c91-ba5e-6a1692754284" />
+
+
+
+
+
+
+
+
+
 
 ## 📝 License
 

@@ -1,13 +1,10 @@
 Here's the updated `README.md` with a new **🧠 Workflow** and **🎯 Use Cases** section added. These sections explain the real-world workflow and purpose of the project:
 
----
 
-````markdown
-# Voice Assistant SaaS Platform
+### Voice Assistant SaaS Platform
 
 A **multi-tenant SaaS platform** for an AI Voice Assistant with **role-based access control**, email-based OTP authentication, and voice-enabled appointment or service interaction.
 
----
 
 ## 🏗️ Architecture
 

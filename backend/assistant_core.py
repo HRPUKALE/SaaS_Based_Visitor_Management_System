@@ -16,8 +16,8 @@ load_dotenv()
 # MySQL connection settings
 MYSQL_HOST = os.environ.get('MYSQL_HOST', 'localhost')
 MYSQL_USER = os.environ.get('MYSQL_USER', 'root')
-MYSQL_PASSWORD = os.environ.get('MYSQL_PASSWORD', 'Hrpukale@131')
-MYSQL_DB = os.environ.get('MYSQL_DB', 'voice_assistant_saas')
+MYSQL_PASSWORD = os.environ.get('MYSQL_PASSWORD', 'your_mysql_password')
+MYSQL_DB = os.environ.get('MYSQL_DB', 'your_database_name')
 
 # FastAPI app with lifespan
 @asynccontextmanager
